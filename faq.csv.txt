@@ -1,0 +1,6 @@
+| Question       | Answer                                 |
+| -------------- | -------------------------------------- |
+| hello          | Hello! How can I help you?             |
+| who are you    | I am an AI chatbot.                    |
+| what is python | Python is a programming language.      |
+| what is ai     | AI stands for Artificial Intelligence. |
